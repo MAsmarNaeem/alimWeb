@@ -59,7 +59,7 @@ const AdminServices = () => {
                 <Box>
                   <Box
                     component="img"
-                    src={`${BURL}/${image}`}
+                    src={`${image}`}
                     alt="service"
                     height={{ xs: 600, md: 600 }}
                     width={{ xs: "100%", md: 500 }}
